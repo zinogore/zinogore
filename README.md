@@ -22,18 +22,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 April 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
-Total Time: 6 hrs 10 mins
+Total Time: 8 hrs 26 mins
 
-Python       5 hrs 42 mins         >>>>>>>>>>>>>>>>>>>>>>>--   92.42 %
-JSON         10 mins               >------------------------   02.92 %
-HTML         6 mins                -------------------------   01.76 %
-Bash         5 mins                -------------------------   01.38 %
-Text         2 mins                -------------------------   00.62 %
-CSS          1 min                 -------------------------   00.45 %
-Git Config   1 min                 -------------------------   00.44 %
+Python       6 hrs 47 mins         >>>>>>>>>>>>>>>>>>>>-----   80.46 %
+HTML         1 hr 6 mins           >>>----------------------   13.20 %
+CSS          12 mins               >------------------------   02.39 %
+JSON         10 mins               >------------------------   02.13 %
+Bash         5 mins                -------------------------   01.01 %
+Text         2 mins                -------------------------   00.45 %
+Git Config   1 min                 -------------------------   00.32 %
+SCSS         0 secs                -------------------------   00.03 %
 Markdown     0 secs                -------------------------   00.01 %
+Other        0 secs                -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
