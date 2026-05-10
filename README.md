@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 April 2026 - To: 07 May 2026
+From: 01 April 2026 - To: 08 May 2026
 
 Total Time: 28 hrs 56 mins
 
