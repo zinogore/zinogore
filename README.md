@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a telegram poll bot for bouldering locations in singapore.
-- 🌱 I’m currently learning `Python` and `Web Development`
+- 🌱 I’m currently learning `Python`, `Web Development`, `Data Structures & Algorithms`
 - ⚡ Fun fact: I like Monster Hunter, Bouldering and Chess!
 
 <!--START_SECTION:waka-->
